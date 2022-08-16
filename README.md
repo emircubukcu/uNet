@@ -42,6 +42,13 @@ Labelme kullanarak oluşturduğunuz veriyi `datasets/train` yoluna kaydetin, ve 
 > ❯ make re-voc
 > ```
 
+
+## Google Colab Kullanımı
+Drive üzerine tüm verileri attıktan sonra  `sample.ipynb` dosyasına çift tıklayarak açınız. Açıldıktan sonra aşağıda gözüken yerde bulunan dosya yolunu düzenleyiniz.
+
+Ardından Test edebilmek için aşağıdaki resimde gözüken yere `datasets/test` içinde bulunan test görselinin ismini yazınız. Ardından `Tümünü Çalıştır` butonuna basıp çalıştırınız. 
+
+
 ## Eğitim ve Test
 
 `sample.ipynb` adlı dosyayı açın ve gerekli bölümleri çalıştırın.Tüm çalışma süresi bittiğinde eğitilmiş model `logs/the-last-model.h5` şeklinde kaydedilecek.
