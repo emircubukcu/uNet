@@ -61,4 +61,4 @@ Ardından Test edebilmek için aşağıdaki resimde gözüken yere `datasets/tes
 Eğer `datasets/test` klasörüne koyduğunuz bir resimi `sample.ipynb` dosyasındaki test bölümünde doğru bir şekilde belirttiyseniz otomatik bir şekilde testi gerçekleştirip sonucu geri döndürecektir.
 
 
-
+![alt-text](https://github.com/emircubukcu/uNet/blob/main/readMePic/test.PNG)
