@@ -1,7 +1,7 @@
 # unet-tensorflow-labelme
 
 ## LabelMe
-LabelMe resim üzerinde çokgenler ile istediğiniz öğeleri etiketlemenize yarayan bir uygulamadır.Burdaki (linkten)[https://github.com/wkentaro/labelme/releases] kendi bilgisayarınıza uygun olan versiyonu seçip indirin.
+LabelMe resim üzerinde çokgenler ile istediğiniz öğeleri etiketlemenize yarayan bir uygulamadır.Burdaki [linkten](https://github.com/wkentaro/labelme/releases) kendi bilgisayarınıza uygun olan versiyonu seçip indirin.
 
 İndirme işleminden sonra kullanacağınız resimlerin bulunduğu klasörü seçip sırasıyla istediğiniz bölgeyi seçip etiketleyiniz.
 
