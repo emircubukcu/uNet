@@ -45,7 +45,7 @@ Labelme kullanarak oluşturduğunuz veriyi `datasets/train` yoluna kaydetin, ve 
 
 ## Google Colab Kullanımı
 Drive üzerine tüm verileri attıktan sonra  `sample.ipynb` dosyasına çift tıklayarak açınız. Açıldıktan sonra aşağıda gözüken yerde bulunan dosya yolunu düzenleyiniz.
-
+![alt-text](https://github.com/emircubukcu/uNet/blob/main/readMePic/drive.PNG)
 Ardından Test edebilmek için aşağıdaki resimde gözüken yere `datasets/test` içinde bulunan test görselinin ismini yazınız. Ardından `Tümünü Çalıştır` butonuna basıp çalıştırınız. 
 
 
