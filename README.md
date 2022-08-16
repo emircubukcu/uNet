@@ -52,7 +52,7 @@ Ardından Test edebilmek için aşağıdaki resimde gözüken yere `datasets/tes
 
 ![alt-text](https://github.com/emircubukcu/uNet/blob/main/readMePic/test.PNG)
 
-![alt-text](https://github.com/emircubukcu/uNet/blob/main/readMePic/calistir.png)
+![alt-text](https://github.com/emircubukcu/uNet/blob/main/readMePic/cal%C4%B1st%C4%B1r.png)
 
 ## Eğitim ve Test
 
