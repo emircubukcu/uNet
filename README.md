@@ -50,6 +50,9 @@ Drive üzerine tüm verileri attıktan sonra  `sample.ipynb` dosyasına çift t�
 
 Ardından Test edebilmek için aşağıdaki resimde gözüken yere `datasets/test` içinde bulunan test görselinin ismini yazınız. Ardından `Tümünü Çalıştır` butonuna basıp çalıştırınız. 
 
+![alt-text](https://github.com/emircubukcu/uNet/blob/main/readMePic/test.PNG)
+
+![alt-text](https://github.com/emircubukcu/uNet/blob/main/readMePic/calistir.PNG)
 
 ## Eğitim ve Test
 
